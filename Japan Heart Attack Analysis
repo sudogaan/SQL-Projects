@@ -1,3 +1,6 @@
+-- Analyzing the contrbiution of various factors on heart attack occurrence in Japan.
+
+
 SELECT *
 FROM japan_heart_attack_dataset
 LIMIT 5; 
